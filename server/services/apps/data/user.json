@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "username": "kareena",
+        "email": "kareen@gmail.com",
+        "password": "123456",
+        "role": "Admin",
+        "phoneNumber": "081234567872",
+        "address": "jakarta"
+    },
+    {
+        "id": "2",
+        "username": "anna",
+        "email": "anna@gmail.com",
+        "password": "123456",
+        "role": "Customer",
+        "phoneNumber": "081234567872",
+        "address": "jakarta"
+    },
+    {
+        "id":"3",
+        "username": "Anne",
+        "email": "anne@gmail.com",
+        "password": "123456",
+        "role": "Admin",
+        "phoneNumber": "081234567872",
+        "address": "jakarta"
+    }
+]

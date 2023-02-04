@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "productId": 1,
+        "imgUrl": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/21/b9815843-f3f8-473d-8c2c-41a431a1677e.jpg"
+    },
+    {
+        "id": "2",
+        "productId": 2,
+        "imgUrl": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/2/10/2d59cdb1-4e57-4900-8b13-871e239c3bd7.jpg"
+    },
+    {
+        "id": "3",
+        "productId": 3,
+        "imgUrl": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/2/12c67b05-59e3-4aab-af95-f3f8fc267384.jpg"
+    },
+    {
+        "id": "4",
+        "productId": 4,
+        "imgUrl": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/12/2/b9df8fb4-8605-41ed-9c8d-75467c93c262.jpg"
+    },
+    {
+        "id": "5",
+        "productId": 5,
+        "imgUrl": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/2/ad25e8b5-1638-4aa9-83cf-d101d3e553c6.jpg"
+    },
+    {
+        "id": "6",
+        "productId": 6,
+        "imgUrl": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/2/25/3baa75ab-1e31-46c1-80df-882a2099e128.jpg"
+    },
+    {
+        "id": "7",
+        "productId": 7,
+        "imgUrl": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/4/b5d74082-4e0d-4dd6-910b-0a5f8ff4b3e2.jpg"
+    },
+    {
+        "id": "8",
+        "productId": 8,
+        "imgUrl": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/11/10/01a6d0f1-63b2-4a8c-9c71-e21e038472e7.jpg"
+    },
+    {
+        "id": "9",
+        "productId": 1,
+        "imgUrl": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/21/b9815843-f3f8-473d-8c2c-41a431a1677e.jpg"
+    },
+    {
+        "id": "10",
+        "productId": 2,
+        "imgUrl": "https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2022/9/13/3082cf13-7f98-4d1a-8a15-0af43ebf8dd1.jpg"
+    },
+    {
+        "id": "11",
+        "productId": 3,
+        "imgUrl": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/21/f0fcafde-661d-4764-a6cb-43705e7f2123.jpg"
+    },
+    {
+        "id": "12",
+        "productId": 4,
+        "imgUrl": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/1/29/84e42042-b634-42ed-a11a-9016103a3de0.jpg"
+    },
+    {
+        "id": "13",
+        "productId": 5,
+        "imgUrl": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/20/537c5fea-388b-446e-a83d-4ec8f6ed82f2.jpg"
+    },
+    {
+        "id": "14",
+        "productId": 6,
+        "imgUrl": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/7/21/dfe38915-c3ce-451c-9ad3-9fbd969d8ba0.jpg"
+    },
+    {
+        "id": "15",
+        "productId": 7,
+        "imgUrl": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/6/af66dd35-564c-44ff-83c6-fade041fa686.jpg"
+    },
+    {
+        "id": "16",
+        "productId": 8,
+        "imgUrl": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/10/f6205284-0110-487e-b750-b5543e6b63ab.jpg"
+    }
+]
